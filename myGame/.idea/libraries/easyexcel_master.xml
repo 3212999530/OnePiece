@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="easyexcel-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/easyexcel-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
